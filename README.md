@@ -3,7 +3,7 @@ By: Srinivasan Ramakrishnan and Diego Rangel
 ## Summary
 We got our data from IMDB and the Numbers where we got information such as the genre, studio, run time, gross, and budget. From this data we looked into the foreign versus domestic market, the production budget compared to the worldwide gross, the most used ratings by movies, and the top 5 most popular languages for movies.
 ## Our Findings
-The most profitable movie studio is BV, which is Dinsey, and we can see that foreign movies make a higher gross than domestic movies which is what we should look into. We filtered the data to only include movies that made over $300 million because we wanted only include major movie studios.
+The most profitable movie studio is BV, which is Disney, and we can see that foreign movies make a higher gross than domestic movies which is what we should look into. We filtered the data to only include movies that made over $300 million because we wanted only include major movie studios.
 
 ![Foreign vs Domestic Gross Barplot](https://user-images.githubusercontent.com/122238220/215191596-79f513d3-4a10-412b-b7f8-a62f585211de.jpg)
 
